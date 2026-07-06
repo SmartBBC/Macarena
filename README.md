@@ -34,6 +34,8 @@
 
 - GitHub: [@SmartBBC](https://github.com/SmartBBC)
 
+> 📖 Більше деталей — у файлі [ABOUT.md](ABOUT.md).
+
 ---
 
 <sub>Створено з ❤️ та трохи гумору. Цей README згенеровано автоматично — сміливо редагуй під себе!</sub>
